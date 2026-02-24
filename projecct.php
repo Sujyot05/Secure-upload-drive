@@ -1,10 +1,10 @@
 <?php
-$UPLOAD_PASSWORD = "S";
+$UPLOAD_PASSWORD = "#PASSWORD";
 
 /* DB */
 $conn = mysqli_connect(
-    "sql105.infinityfree.com",
-    "if0_41032273",
+    "URL",
+    "DB_host url",
     "Password",
     "dbname",
     3306
